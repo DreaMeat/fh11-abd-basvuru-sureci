@@ -11,21 +11,27 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
 	font-family: Flaticon;
-        font-size: 20px;
+        font-size: 60px;
 font-style: normal;
 margin-left: 20px;
-}.flaticon-group58:before {
+}.flaticon-businessman267:before {
 	content: "\e000";
 }
-.flaticon-males4:before {
+.flaticon-couple10:before {
 	content: "\e001";
 }
-.flaticon-person154:before {
+.flaticon-envelope53:before {
 	content: "\e002";
 }
-.flaticon-professor15:before {
+.flaticon-money132:before {
 	content: "\e003";
 }
-.flaticon-rankings:before {
+.flaticon-open14:before {
 	content: "\e004";
+}
+.flaticon-person154:before {
+	content: "\e005";
+}
+.flaticon-personal5:before {
+	content: "\e006";
 }
